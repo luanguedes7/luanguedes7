@@ -1,5 +1,8 @@
 ### Hello! I'm Luan Guedes. 🖐️
 
+💭Passionate about programming since high school, I dedicate myself academically to Engineering Computing and studying technologies from the world of programming weekly. In this sense, I develop university and personal projects to prepare me for professional opportunities. I'm interested in working with data. Finally, it is worth mentioning that, in addition to programming logic, I currently study the Python and Java programming languages.
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-crísley)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luan.guedes_/)
 
@@ -17,6 +20,6 @@
    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
-💭Passionate about programming since high school, I dedicate myself academically to Engineering Computing and studying technologies from the world of programming weekly. In this sense, I develop university and personal projects to prepare me for professional opportunities. I'm interested in working with data. Finally, it is worth mentioning that, in addition to programming logic, I currently study the Python and Java programming languages.
+
 
  
