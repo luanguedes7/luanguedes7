@@ -1,6 +1,6 @@
 ### Hello! I'm Luan Guedes. 🖐️
 
-💭Passionate about programming since high school, I dedicate myself academically to Engineering Computing at the University of Brasília and I study technologies from the world of programming every week. In this sense, I develop university and personal projects to prepare me for professional opportunities. I'm interested in working with data. Finally, it is worth mentioning that, in addition to programming logic, I currently study the Python and Java programming languages.
+💭Passionate about programming since high school, I dedicate myself academically to Engineering Computing at the University of Brasília and I study technologies from the world of programming every week. In this sense, I develop university and personal projects to prepare me for professional opportunities. I'm interested in working with data. Finally, it is worth mentioning that I currently study the Python and Java programming languages.
 
 
 ![Luan Guedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanguedes7&show_icons=true&theme=dark)
