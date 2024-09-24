@@ -1,3 +1,5 @@
+
+
 ### Hello! I'm Luan Guedes. 🖐️
 
 💭Passionate about programming since high school, I dedicate myself academically to Engineering Computing at the University of Brasília and I study technologies from the world of programming every week. In this sense, I develop university and personal projects to prepare me for professional opportunities. I'm interested in working with data. Finally, it is worth mentioning that I currently study the Python and Java programming languages.
@@ -16,8 +18,9 @@
 </div><br/>
 
 ## Contacts
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-crísley)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luan.guedes_/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://luanguedes.netlify.app/)
 
 
 
