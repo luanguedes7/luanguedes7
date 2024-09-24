@@ -1,12 +1,12 @@
 
 
-### Hello! I'm Luan Guedes. 🖐️
+### Olá! Sou o Luan Guedes! 🖐️
 
-💭Passionate about programming since high school, I dedicate myself academically to Engineering Computing at the University of Brasília and I study technologies from the world of programming every week. In this sense, I develop university and personal projects to prepare me for professional opportunities. I'm interested in working with data. Finally, it is worth mentioning that I currently study the Python and Java programming languages.
+💭Sou apaixonado por programação desde o ensino médio, e me dedico à Engenharia da Computação e estudo tecnologias dessa área semanalmente. Nesse sentido, desenvolvo projetos universitários e pessoais com o objetivo de me preparar para oportunidades profissionais. Tenho facilidade de aprendizado, boa comunicação, adaptabilidade a mudanças e interesse em trabalhar com dados. Por fim, vale ressaltar que sou especializado em Java, SpringBoot, Python, Django e React.
 
 
 
-## Technologies in my life as a programmer
+## Tecnologias na minha vida como programador
 <div style="display: inline_block">
    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,7 +17,7 @@
    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
-## Contacts
+## Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-crísley)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://luanguedes.netlify.app/)
