@@ -2,7 +2,7 @@
 
 ### Olá! Sou o Luan Guedes! 🖐️
 
-💭Sou apaixonado por programação desde o ensino médio, e me dedico à Engenharia da Computação e estudo tecnologias dessa área semanalmente. Nesse sentido, desenvolvo projetos universitários e pessoais com o objetivo de me preparar para oportunidades profissionais. Tenho facilidade de aprendizado, boa comunicação, adaptabilidade a mudanças e interesse em trabalhar com dados. Por fim, vale ressaltar que sou especializado em Java, SpringBoot, Python, Django, Angular e .NET.
+💭Sou apaixonado por programação desde o ensino médio, e me dedico à Engenharia da Computação e estudo tecnologias dessa área semanalmente. Nesse sentido, desenvolvo projetos universitários e pessoais com o objetivo de me preparar para oportunidades profissionais. Tenho facilidade de aprendizado, boa comunicação, adaptabilidade a mudanças e interesse em trabalhar com dados. Por fim, vale ressaltar que sou especializado em Java, SpringBoot, Python, Django, Angular.
 
 
 
