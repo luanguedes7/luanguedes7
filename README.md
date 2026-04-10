@@ -12,7 +12,7 @@ Graduando em Engenharia da Computação, com foco no desenvolvimento de soluçõ
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20" />
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=2BA977" />
 </div>
    
 </div><br/>
