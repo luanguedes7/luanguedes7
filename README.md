@@ -16,7 +16,7 @@ Graduando em Engenharia da Computação, com dedicação contínua ao desenvolvi
 
 ## Contatos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-crísley)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan--guedes/)
 
 
 
